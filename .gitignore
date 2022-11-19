@@ -1,3 +1,7 @@
-﻿.vs/
-bin/
+.vs/
+bin/Debug/net6.0-windows/Generic Code Editor.deps.json
+bin/Debug/net6.0-windows/Generic Code Editor.dll
+bin/Debug/net6.0-windows/Generic Code Editor.exe
+bin/Debug/net6.0-windows/Generic Code Editor.pdb
+bin/Debug/net6.0-windows/Generic Code Editor.runtimeconfig.json
 obj/
